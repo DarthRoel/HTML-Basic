@@ -1,3 +1,3 @@
 # Test
 Test Repo
-Refer to Teh Assignment Brief Document Attached with the code.
+Refer to the Assignment Brief Document Attached with the code.
